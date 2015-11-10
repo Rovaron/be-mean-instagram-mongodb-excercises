@@ -12,6 +12,12 @@
 
 5) Saber pesquisar na internet.
 
+## Aulas
+
+As aulas são de Segunda a Sexta, iniciando as 20 horas. Ficarei no live chat das 20 as 21:30 para tirar dúvidas pertinentes sobre o conteúdo passado, exercícios **NUNCA** são corrigidos no mesmo dia.
+
+Caso não haja aula em 1 dia a mesma será adicionada na aula do dia posterior, pois adversidades podem acontecer.
+
 ## Exercícios
 
 Quando você for enviar algum exrcício de qualquer módulo por favor siga os seguintes passos:
