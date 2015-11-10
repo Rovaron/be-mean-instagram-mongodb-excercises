@@ -18,6 +18,18 @@ As aulas são de Segunda a Sexta, iniciando as 20 horas. Ficarei no live chat da
 
 Caso não haja aula em 1 dia a mesma será adicionada na aula do dia posterior, pois adversidades podem acontecer.
 
+### Vídeo
+
+O vídeo sai tanto no [Youtube](https://www.youtube.com/playlist?list=PL77JVjKTJT2jyVllJeO3TZV9D5cfSvSjR) como no nosso [EAD apenas para apoiadores](http://aprenda.dagora.net/)
+
+### Chat
+
+Além do nosso [Fórum especial apenas para apoiadores](http://aprenda.dagora.net/) também temos um chat onde tiro dúvidas em tempo real durante a aula, para isso usamos o [Rocket.chat](http://be-mean.rocket.chat/).
+
+### Grupo no Facebook
+
+Além de tudo isso também temos um grande [grupo no Facebook](https://www.facebook.com/groups/workshop.be.mean/) para discutirmos sobre as metodologias adotadas no curso.
+
 ## Exercícios
 
 Quando você for enviar algum exrcício de qualquer módulo por favor siga os seguintes passos:
