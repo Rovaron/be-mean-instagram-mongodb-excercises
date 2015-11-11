@@ -1,10 +1,10 @@
-- **Aula 01 | 9.11**
+- **Aula 01 | 9.11** Vídeo: [https://www.youtube.com/watch?v=leYxsEAL_yY](https://www.youtube.com/watch?v=leYxsEAL_yY)
     + Módulo MongoDB
         * Teoria
             - NoSQL
             - MongoDB
         * Instalação
-- **Aula 02 | 10.11**
+- **Aula 02 | 10.11** Vídeo: [https://www.youtube.com/watch?v=PaNVk0V2UNI](https://www.youtube.com/watch?v=PaNVk0V2UNI)
     + Módulo MongoDB
         * Cliente
             - use database
