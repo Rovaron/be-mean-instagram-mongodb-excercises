@@ -1,3 +1,7 @@
+## [Slides](https://docs.google.com/presentation/d/1KXxmcwd47x4v2SymyiBPK7ucn80PruSvcw4mZ5S3nWc/edit?usp=sharing)
+
+## Aulas
+
 - **Aula 01 | 9.11** Vídeo: [https://www.youtube.com/watch?v=leYxsEAL_yY](https://www.youtube.com/watch?v=leYxsEAL_yY)
     + Módulo MongoDB
         * Teoria
