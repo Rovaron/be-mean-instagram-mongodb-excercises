@@ -7,3 +7,9 @@ Quando você for enviar algum exrcício de qualquer módulo por favor siga os se
 5. Crie um **Pull Request** enviando **APENAS** o seu arquivo sem modificar mais nada.
 6. Na mensagem do commit/pull request favor seguir o padrão: Nome Completo - Módulo - Exercicio X resolvido
 7. Levante as mão para o céu e agradeça se acaso tiver ... #brinks
+
+## Obrigatoriedade
+
+Caso você deseje receber o certificado de algum módulo, antes de enviar o Projeto Final, deverá ter **TODOS** os exercícios propostos, feitos e mantidos no seu github.
+
+Eles serão necessários para consultas futuras.
