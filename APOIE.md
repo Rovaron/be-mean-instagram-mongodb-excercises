@@ -11,8 +11,8 @@ Por hora são as seguintes opções:
 
 #### R$50
 
-Apoiando com R$50 você receberá, além do acesso ao EAD, apenas os 3 primeiros certificados: MongoDb, Node.js e Angular. 
+Apoiando com R$50 você receberá, além do acesso ao EAD e **TODOS OS MÓDULOS ABERTOS**, apenas os 3 primeiros certificados: MongoDb, Node.js e Angular. 
 
 #### R$100
 
-Apoiando com R$100 você receberá, além do acesso ao EAD, ** TODOS os certificados**. Já estamos em 10 e ainda pode aumentar!!!
+Apoiando com R$100 você receberá, além do acesso ao EAD e **TODOS OS MÓDULOS ABERTOS**, ** TODOS os certificados**. Já estamos em 10 e ainda pode aumentar!!!
