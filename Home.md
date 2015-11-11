@@ -32,6 +32,10 @@ Apoiando com R$100 você receberá, além do acesso ao EAD, ** TODOS os certific
 
 5) Saber pesquisar na internet.
 
+## EAD
+
+O [fórum e demais funcionalidades do EAD](http://aprenda.dagora.net/) são apenas para os apoiadores.
+
 ## Aulas
 
 As aulas são de Segunda a Sexta, iniciando as 20 horas. Ficarei no live chat das 20 as 21:30 para tirar dúvidas pertinentes sobre o conteúdo passado, exercícios **NUNCA** são corrigidos no mesmo dia.
