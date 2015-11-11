@@ -1,7 +1,9 @@
 
-Se você não conseguiu apoiar no crowdfunding, mas deseja fazê-lo agora, poderá optar ou pelos cursos abertos de Docker, R$300 e Ionic, R$500. 
+Se você não conseguiu apoiar [no crowdfunding, mas deseja fazê-lo agora, poderá optar ou pelos cursos abertos de Docker, R$300 e Ionic, R$500](http://dagora.net/be-mean/). 
 
 Ou enviar diretamente para meu pagseguro, o botão está la no site ou pode usar o botão do [JS Funcional](http://webschool.io/jsfuncional/).
+
+### [SITE OFICIAL PARA APOIAR](http://dagora.net/be-mean/)
 
 ### Valores
 
