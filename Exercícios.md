@@ -8,7 +8,7 @@ Quando você for enviar algum exrcício de qualquer módulo por favor siga os se
 6. Na mensagem do commit/pull request favor seguir o padrão: Nome Completo - Módulo - Exercicio X resolvido
 7. Levante as mão para o céu e agradeça se acaso tiver ... #brinks
 
-ps: **POR FAVOR PAREM DE MANDAR NA PASTA ERRADA! E É EXERCISES CARALEOOO!
+ps: **POR FAVOR PAREM DE MANDAR NA PASTA ERRADA! E É EXERCISES CARALEOOO!**
 
 ## Obrigatoriedade
 
