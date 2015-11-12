@@ -1,5 +1,12 @@
 # Be MEAN Instagram - Wiki
 
+
+***
+
+## Não mandem mais seus exercícios nesse repositório!!!
+
+***
+
 **ATENÇÃO**
 
 ***
