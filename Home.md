@@ -1,5 +1,26 @@
 # Be MEAN Instagram - Wiki
 
+**ATENÇÃO**
+
+***
+
+Para você manter seu repositório sempre em dia execute o seguinte comando no seu repositório forkado:
+
+```
+git remote add upstream url_do_repo_original (adicione somente uma vez)
+```
+
+Depois de adicionado, todo exercício q você for mandar, faça:
+
+```
+git fetch upstream
+git merge upstream/master
+git add seu_arquivo.md
+git commit -am "descricao do commit"
+git push origin master
+```
+
+***
 ## APOIO
 
 Se você não conseguiu apoiar no crowdfunding, mas deseja fazê-lo agora, poderá optar ou pelos cursos abertos de Docker, R$300 e Ionic, R$500. 
@@ -53,4 +74,3 @@ Além do nosso [Fórum especial apenas para apoiadores](http://aprenda.dagora.ne
 ### Grupo no Facebook
 
 Além de tudo isso também temos um grande [grupo no Facebook](https://www.facebook.com/groups/workshop.be.mean/) para discutirmos sobre as metodologias adotadas no curso.
-
