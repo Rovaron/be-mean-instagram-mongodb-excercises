@@ -1,3 +1,5 @@
+
+
 Quando você for enviar algum exrcício de qualquer módulo por favor siga os seguintes passos:
 
 1. Crie o repositório específico do módulo. Ex.: be-mean-instagram-mongodb
@@ -9,6 +11,24 @@ Quando você for enviar algum exrcício de qualquer módulo por favor siga os se
 7. Levante as mão para o céu e agradeça se acaso tiver ... #brinks
 
 ps: **POR FAVOR PAREM DE MANDAR NA PASTA ERRADA! E É EXERCISES CARALEOOO!**
+
+## Dica marota
+
+Para você manter seu repositório sempre em dia execute o seguinte comando no seu repositório forkado:
+
+```
+git remote add upstream url_do_repo_original (adicione somente uma vez)
+```
+
+Depois de adicionado, todo exercício q você for mandar, faça:
+
+```
+git fetch upstream
+git merge upstream/master
+git add seu_arquivo.md
+git commit -am "descricao do commit"
+git push origin master
+```
 
 ## Obrigatoriedade
 
